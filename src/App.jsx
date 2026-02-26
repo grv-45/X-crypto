@@ -25,7 +25,7 @@ const App = () => {
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white p-4">
       <div className="max-w-4xl mx-auto">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold">Crypto Tracker</h1>
+          <h1 className="text-3xl font-bold">X-crypto</h1>
           <button
          onClick={toggleDarkMode}
          className="px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700"
